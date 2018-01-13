@@ -20,8 +20,6 @@ import com.kuangkee.service.IBrandService;
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration({ "classpath:spring/applicationContext-*.xml" })
 public class TestUserSearchLog {
-//	@Autowired
-//	ItemService itemService ;
 	
 	@Autowired
 	IBrandService brandService ;

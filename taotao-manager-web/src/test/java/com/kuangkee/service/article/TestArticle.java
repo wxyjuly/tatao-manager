@@ -9,7 +9,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.kuangkee.search.pojo.Brand;
-import com.kuangkee.service.IBrandService;
+import com.kuangkee.service.brand.IBrandService;
 
 /**
  * 测试用户搜索日志

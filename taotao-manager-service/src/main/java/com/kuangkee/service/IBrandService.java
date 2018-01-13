@@ -1,4 +1,4 @@
-package com.kuangkee.service;
+package com.kuangkee.service ;
 
 import java.util.List;
 
@@ -41,7 +41,7 @@ public interface IBrandService {
 	KuangkeeResult insertBrand(Brand record) ;
 	
 	/**
-	 * @deprecated Need not implements
+	 * @deprecated Need not implements Now.
 	 * insertBrandList: 批量增加Brand. <br/>
 	 * @author Leon Xi
 	 * @param brandList
